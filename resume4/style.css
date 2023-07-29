@@ -1,0 +1,129 @@
+*{
+
+
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    height: 100%;
+
+}
+
+.biodata img {
+    border-radius: 50%;
+    display: table;
+    align-items: center;
+    padding: 65px;
+    border: 2px solid #ef2626;
+    margin: auto;
+    width: 21%;
+}
+/* .home-container {
+    background: #232368;;
+    width: 36%;
+    height: 629px; */
+
+h2.text-deco {
+    text-align: center;
+    margin-top: 56px;
+}
+p.text-tag {
+    margin-top: 19px;
+    text-align: center;
+}
+.border-right {
+    width: 31%;
+    border-bottom: 1px solid #ef2626;
+}
+.border-block {
+    justify-content: space-evenly;
+    display: flex;
+}
+.border-left {
+    width: 31%;
+    border-bottom: 1px solid #ef2626;
+}
+.home-container {
+    border: 7px solid #232368;;
+    background: #f7f4f4;
+    width: 36%;
+    height: 790px;
+}
+h2.text-deco {
+    font-size: 28px;
+    font-weight: 500;
+    color: #d52222;
+}
+
+
+p.text-tag {
+    margin-top: 6px;
+    color: #ef2626;
+    font-size: 14px;
+}
+.experences {
+    justify-content: space-evenly;
+    display: flex;
+}
+.container-working h2{
+    margin-bottom: 40px;
+    font-family: math;
+    color: #ef2626;
+    font-weight: 500;
+    font-size: 34px;
+    margin-top: 26px;
+}
+
+.border-lenght {
+    border: 1px solid #f31e1e;
+    height: 410px;
+    margin-top: 36px;
+}
+ul.container-address {
+    font-weight: 500;
+    line-height: 76px;
+    color: #ef2626;
+    list-style-type: none;
+    font-size: 19px;
+}
+.container-work-experence h2 {
+   
+    font-weight: 500;
+    line-height: 76px;
+    color: #ef2626;
+    font-size: 19px;
+}
+.border-bottom2 {
+    border-bottom: 1px solid #ef2626;
+    width: 282px;
+    margin-top: 180px;
+    margin-bottom: -11px
+}
+.border-bottom3 {
+    margin-top: 25px;
+    border-bottom: 1px solid #ef2626;
+    margin-bottom: -13px;
+    width: 282px;
+}
+.border-bottom4 {
+    margin-top: 25px;
+    border-bottom: 1px solid #ef2626;
+    margin-bottom: -13px;
+    width: 282px;
+}
+
+.circle-system {
+    background-color: #857b7b;
+    width: 1%;
+    border-radius: 50%;
+    border: black;
+    padding: 5px;
+    margin: 3px;
+}
+.container-circle {
+    display: flex;
+}
