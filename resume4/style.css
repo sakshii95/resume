@@ -20,12 +20,9 @@ body{
     padding: 65px;
     border: 2px solid #ef2626;
     margin: auto;
-    width: 21%;
+    width: 9%;
 }
-/* .home-container {
-    background: #232368;;
-    width: 36%;
-    height: 629px; */
+
 
 h2.text-deco {
     text-align: center;
@@ -50,7 +47,7 @@ p.text-tag {
 .home-container {
     border: 7px solid #232368;;
     background: #f7f4f4;
-    width: 36%;
+    width: 50%;
     height: 790px;
 }
 h2.text-deco {
@@ -117,7 +114,7 @@ ul.container-address {
 }
 
 .circle-system {
-    background-color: #857b7b;
+    background-color: #857b7b;F
     width: 1%;
     border-radius: 50%;
     border: black;
